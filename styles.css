@@ -1,0 +1,17 @@
+body{
+    background-color: #8f16cf    ;
+}
+.text-div{
+    margin: 10px auto;
+    width: 80%;
+}
+.color-picker {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #colorPicker{
+    width: 100px; 
+    height: 100px; 
+    margin-top: 20px;
+  }
